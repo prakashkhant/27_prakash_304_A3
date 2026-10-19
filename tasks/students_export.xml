@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<students>
+  <student>
+    <name>Amit Shah</name>
+    <email>amit@example.com</email>
+    <course>BCA</course>
+  </student>
+  <student>
+    <name>Riya Patel</name>
+    <email>riya@example.com</email>
+    <course>MCA</course>
+  </student>
+  <student>
+    <name>Karan Mehta</name>
+    <email>karan@example.com</email>
+    <course>BSc IT</course>
+  </student>
+  <student>
+    <name>Amit Shah</name>
+    <email>amit@example.com</email>
+    <course>BCA</course>
+  </student>
+  <student>
+    <name>Riya Patel</name>
+    <email>riya@example.com</email>
+    <course>MCA</course>
+  </student>
+  <student>
+    <name>Karan Mehta</name>
+    <email>karan@example.com</email>
+    <course>BSc IT</course>
+  </student>
+  <student>
+    <name>Amit Shah</name>
+    <email>amit@example.com</email>
+    <course>BCA</course>
+  </student>
+  <student>
+    <name>Riya Patel</name>
+    <email>riya@example.com</email>
+    <course>MCA</course>
+  </student>
+  <student>
+    <name>Karan Mehta</name>
+    <email>karan@example.com</email>
+    <course>BSc IT</course>
+  </student>
+</students>
